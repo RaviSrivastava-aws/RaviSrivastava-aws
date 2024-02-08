@@ -1,5 +1,10 @@
 Hi there 👋
-I am [Ravi](https://www.linkedin.com/in/ravi-kumar-srivastava-a028b7243/) 
+I am [Ravi](https://www.linkedin.com/in/ravi-kumar-srivastava-a028b7243/) a Cloud Engineer from [India](https://en.wikipedia.org/wiki/India) passionate about Cloud & DevOps with 3+ years of professional onsite as well as remote working experience. 🎯 
+
+I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
+
+![aws](https://github.com/RaviSrivastava-aws/RaviSrivastava-aws/assets/118262543/1141dc91-b50e-405d-afcb-9fe27d174a3f)
+
 
 <!--
 **RaviSrivastava-aws/RaviSrivastava-aws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
