@@ -3,7 +3,8 @@ I am [Ravi](https://www.linkedin.com/in/ravi-kumar-srivastava-a028b7243/) a Clou
 
 I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
 
-![aws](https://github.com/RaviSrivastava-aws/RaviSrivastava-aws/assets/118262543/1141dc91-b50e-405d-afcb-9fe27d174a3f)[Git]( https://tenor.com/view/git-github-gif-1726717753059411020)
+![Amazon_Web_Services-Logo wine](https://github.com/RaviSrivastava-aws/RaviSrivastava-aws/assets/118262543/ac301ba5-3022-4daa-9b92-dbed5d3b87dd)
+
 
 
 <!--
